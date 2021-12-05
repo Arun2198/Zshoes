@@ -22,6 +22,7 @@ Matplotlib
 Sklearn  
 Scipy  
 Statsmodels  
-Random Forest  
-Outcome  
+Random Forest 
+
+Outcome:    
 Sucessfully built a predictive model based on XgBoost algorithm which will help in making an app for price prediction/recommendation  
