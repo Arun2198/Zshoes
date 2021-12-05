@@ -25,4 +25,4 @@ Statsmodels
 Random Forest 
 
 Outcome:    
-Sucessfully built a predictive model based on XgBoost algorithm which will help in making an app for price prediction/recommendation  
+Sucessfully built a predictive model based on Random Forest algorithm which will help in making an app for price prediction/recommendation  
