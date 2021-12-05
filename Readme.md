@@ -8,20 +8,20 @@ Zshoes.com is one of the famous shoe manufacturers of India and has business in 
 
 Skills and Techniques used:
 
-Data Understanding techniques
-EDA
-Stats to find out normality
-Model building
-Feature selection
-Using Evaluation metrics for that model
-Libraries used
-Pandas
-Numpy
-Seaborn
-Matplotlib 
-Sklearn
-Scipy
-Statsmodels
-Random Forest
-Outcome
-Sucessfully built a predictive model based on XgBoost algorithm which will help in making an app for price prediction/recommendation
+Data Understanding techniques  
+EDA  
+Stats to find out normality  
+Model building  
+Feature selection  
+Using Evaluation metrics for that model  
+Libraries used  
+Pandas  
+Numpy  
+Seaborn  
+Matplotlib   
+Sklearn  
+Scipy  
+Statsmodels  
+Random Forest  
+Outcome  
+Sucessfully built a predictive model based on XgBoost algorithm which will help in making an app for price prediction/recommendation  
